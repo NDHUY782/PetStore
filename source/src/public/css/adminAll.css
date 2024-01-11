@@ -1,0 +1,123 @@
+* {
+  box-sizing: inherit; }
+
+html {
+  font-size: 62.5%;
+  line-height: 2rem;
+  font-family: 'Roboto', sans-serif;
+  box-sizing: border-box; }
+
+body {
+  margin: 0;
+  height: 100%; }
+
+ul {
+  list-style: none;
+  padding-left: 0 !important; }
+
+.container,
+.container-fluid {
+  padding-left: 0 !important;
+  padding-right: 0 !important; }
+
+.margin-top-header {
+  margin-top: 150px; }
+
+.p_title {
+  color: #269d00;
+  margin: 50px 0;
+  text-transform: uppercase;
+  font-size: 3rem;
+  font-weight: 700;
+  position: relative;
+  z-index: 3;
+  margin: 20px 0; }
+
+.image {
+  width: 50px;
+  height: 50px; }
+
+.mt-header-30 {
+  margin-top: 180px !important; }
+
+.p-lr-0 {
+  padding-left: 0 !important;
+  padding-right: 0 !important; }
+
+.m-lr-0 {
+  margin-left: 0 !important;
+  margin-right: 0 !important; }
+
+.button-base {
+  margin: 20px 0;
+  height: 42px;
+  width: 140px;
+  background-color: red;
+  font-size: 2rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 5px; }
+  .button-base a {
+    text-decoration: none;
+    color: #fff; }
+
+.button-base:hover {
+  background-color: blue; }
+
+.dashboard .contain-table {
+  max-height: 500px; }
+  .dashboard .contain-table td a,
+  .dashboard .contain-table td button {
+    margin: 5px 5px; }
+  .dashboard .contain-table td a:hover,
+  .dashboard .contain-table td button:hover {
+    background-color: blue;
+    color: #fff; }
+
+.dashboard .add-category {
+  margin: 20px; }
+  .dashboard .add-category label {
+    font-size: 3rem; }
+  .dashboard .add-category input {
+    height: 42px;
+    font-size: 2rem;
+    margin: 20px 0; }
+  .dashboard .add-category .btn-add {
+    height: 42px;
+    width: 100px;
+    font-size: 2rem;
+    background-color: #269d00;
+    border: none; }
+  .dashboard .add-category .btn-add:hover {
+    background-color: blue; }
+
+.dashboard form select {
+  width: 200px;
+  margin: 20px;
+  font-size: 2rem;
+  height: 42px !important; }
+
+.dashboard form .btn-submit-checkall {
+  margin: 0 20px;
+  height: 30px;
+  width: 200px; }
+
+.dashboard form .btn-submit-checkall:hover {
+  background-color: #269d00; }
+
+.dashboard .product {
+  margin-bottom: 30px;
+  margin: 20px; }
+  .dashboard .product select {
+    margin: 10px 0; }
+  .dashboard .product label {
+    font-size: 2rem;
+    font-weight: 600; }
+  .dashboard .product input {
+    height: 40px;
+    font-size: 2rem;
+    margin: 10px 0; }
+  .dashboard .product .btn-submit-checkall {
+    margin: 0;
+    height: 40px;
+    font-size: 2rem; }

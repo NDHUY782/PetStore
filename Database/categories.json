@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "64510918306c7972004cc994"
+  },
+  "name": "CHÓ CẢNH",
+  "createdAt": {
+    "$date": "2023-05-02T12:59:04.312Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T19:50:32.598Z"
+  },
+  "category_ID": 1,
+  "slug": "cho-canh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64510921306c7972004cc99c"
+  },
+  "name": "MÈO CẢNH",
+  "createdAt": {
+    "$date": "2023-05-02T12:59:13.404Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T12:59:13.404Z"
+  },
+  "slug": "meo-canh",
+  "category_ID": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6451096b306c7972004cc9a5"
+  },
+  "name": "THỨC ĂN CHO THÚ CƯNG",
+  "createdAt": {
+    "$date": "2023-05-02T13:00:27.191Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T15:05:08.984Z"
+  },
+  "slug": "thuc-an-cho-thu-cung",
+  "category_ID": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645109c1306c7972004cc9ae"
+  },
+  "name": "VẬT DỤNG SINH HOẠT CHO THÚ CƯNG",
+  "createdAt": {
+    "$date": "2023-05-02T13:01:53.618Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T19:50:22.262Z"
+  },
+  "slug": "vat-dung-an-uong-sinh-hoat-cho-thu-cung",
+  "category_ID": 4,
+  "__v": 0
+}]

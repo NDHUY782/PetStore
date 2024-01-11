@@ -1,0 +1,513 @@
+[{
+  "_id": {
+    "$oid": "64572c33aa616706e42aa570"
+  },
+  "details": [
+    {
+      "quantity": 2,
+      "product": {
+        "_id": {
+          "$oid": "64510e6f306c7972004cc9de"
+        },
+        "name": "CHÓ POODLE",
+        "categoryID": 1,
+        "quantity": 1,
+        "price": 1200000,
+        "salePrice": null,
+        "des": "Chó Poodle là một giống chó có nguồn gốc từ Pháp. Chúng có kích thước trung bình, thông minh, trung thành và thân thiện với con người. Poodle có 3 kích cỡ chính là Poodle tiêu chuẩn, Poodle nhỏ và Poodle siêu nhỏ. Bộ lông của Poodle rất đặc trưng, có thể được cắt thành nhiều kiểu dáng khác nhau để tạo nên nhiều phong cách khác nhau. Poodle cũng là một trong những giống chó ít gây dị ứng và rụng lông nhiều, do đó được ưa chuộng trong việc nuôi làm thú cưng trong gia đình. Poodle cũng được đào tạo để làm chó hướng dẫn cho người mù, chó cảnh sát và chó tìm kiếm. Ngoài ra, chúng cũng thường được sử dụng trong các cuộc thi về thể lực và vẻ đẹp của chó.",
+        "image": "https://dogily.vn/wp-content/uploads/2022/07/cho-poodle-teacup-mau-trang-cai-9-400x400.png",
+        "createdAt": {
+          "$date": "2023-05-02T13:21:51.381Z"
+        },
+        "updatedAt": {
+          "$date": "2023-05-02T14:02:48.031Z"
+        },
+        "slug": "cho-poodle",
+        "product_ID": 3,
+        "__v": 0
+      }
+    },
+    {
+      "quantity": 1,
+      "product": {
+        "_id": {
+          "$oid": "64511108306c7972004cc9ec"
+        },
+        "name": "CHÓ BICHON",
+        "categoryID": 1,
+        "quantity": 1,
+        "price": 1200000,
+        "salePrice": null,
+        "des": "Chó Bichon là một giống chó nhỏ có nguồn gốc từ vùng Địa Trung Hải. Chúng có bộ lông dày và mịn, tạo nên vẻ đẹp quyến rũ và đáng yêu đặc trưng của giống chó này. Bichon có kích thước trung bình khoảng 20-30 cm và cân nặng khoảng 3-6 kg. Chúng là giống chó trung thành, thân thiện và dễ thương, thường được nuôi như là một thành viên trong gia đình. Bichon thường không rụng lông nhiều, là giống chó thích hợp cho những người bị dị ứng với lông chó. Chúng cũng thích được chơi đùa và có tính cách dễ dàng hòa đồng với con người và các loài vật khác. Bichon được chia thành nhiều giống khác nhau như Bichon Frise, Bichon Havanese và Bichon Maltese.",
+        "image": "https://dogily.vn/wp-content/uploads/2022/06/cho-bichon-trang-cai-7-400x400.png",
+        "createdAt": {
+          "$date": "2023-05-02T13:32:56.988Z"
+        },
+        "updatedAt": {
+          "$date": "2023-05-02T13:33:07.815Z"
+        },
+        "slug": "cho-bichon",
+        "product_ID": 4,
+        "__v": 0
+      }
+    }
+  ],
+  "id_customer": 1,
+  "name_customer": "Đặng Quốc Huy 1",
+  "address": "317/18 Thống Nhất",
+  "phone": "0854395048",
+  "total_order": 3600000,
+  "createdAt": {
+    "$date": "2023-05-07T04:42:27.567Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T04:42:27.567Z"
+  },
+  "order_ID": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64572d2aaa616706e42aa57b"
+  },
+  "details": [
+    {
+      "quantity": 1,
+      "product": {
+        "_id": {
+          "$oid": "64510b25306c7972004cc9ba"
+        },
+        "name": "CHÓ CORGI",
+        "categoryID": 1,
+        "quantity": 1,
+        "price": 1000000,
+        "salePrice": 800000,
+        "des": " Chó Corgi là một giống chó có nguồn gốc từ xứ Wales. Chúng thuộc nhóm chó săn và đã được nuôi để giúp đàn gia súc của người dân vùng đó từ thế kỷ 10. Corgi có 2 loại chính là Pembroke và Cardigan, những chú chó này có chiều cao trung bình khoảng 25-30 cm và cân nặng khoảng 10-15 kg. Chúng có thân hình ngắn, chân ngắn, đuôi ngắn và đôi tai đứng thẳng. Corgi là một giống chó thông minh, trung thành và năng động, thường được dùng làm chó canh gác, chó chăn cừu hoặc làm thú cưng trong gia đình. Với bộ lông ngắn và dễ chăm sóc, Corgi trở thành một trong những giống chó được ưa chuộng nhất trên thế giới.",
+        "image": "https://dogily.vn/wp-content/uploads/2022/04/corgi-vang-trang-duc-4-400x400.png",
+        "createdAt": {
+          "$date": "2023-05-02T13:07:49.161Z"
+        },
+        "updatedAt": {
+          "$date": "2023-05-03T19:34:52.693Z"
+        },
+        "product_ID": 1,
+        "slug": "cho-corgi",
+        "__v": 0
+      }
+    }
+  ],
+  "id_customer": 1,
+  "name_customer": "Đặng Quốc Huy 2",
+  "address": "175/4,  Lê Đức Thọ",
+  "phone": "0368495365",
+  "total_order": 800000,
+  "createdAt": {
+    "$date": "2023-05-07T04:46:34.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T04:46:34.337Z"
+  },
+  "order_ID": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64572d59aa616706e42aa584"
+  },
+  "details": [
+    {
+      "quantity": 1,
+      "product": {
+        "_id": {
+          "$oid": "64510b25306c7972004cc9ba"
+        },
+        "name": "CHÓ CORGI",
+        "categoryID": 1,
+        "quantity": 1,
+        "price": 1000000,
+        "salePrice": 800000,
+        "des": " Chó Corgi là một giống chó có nguồn gốc từ xứ Wales. Chúng thuộc nhóm chó săn và đã được nuôi để giúp đàn gia súc của người dân vùng đó từ thế kỷ 10. Corgi có 2 loại chính là Pembroke và Cardigan, những chú chó này có chiều cao trung bình khoảng 25-30 cm và cân nặng khoảng 10-15 kg. Chúng có thân hình ngắn, chân ngắn, đuôi ngắn và đôi tai đứng thẳng. Corgi là một giống chó thông minh, trung thành và năng động, thường được dùng làm chó canh gác, chó chăn cừu hoặc làm thú cưng trong gia đình. Với bộ lông ngắn và dễ chăm sóc, Corgi trở thành một trong những giống chó được ưa chuộng nhất trên thế giới.",
+        "image": "https://dogily.vn/wp-content/uploads/2022/04/corgi-vang-trang-duc-4-400x400.png",
+        "createdAt": {
+          "$date": "2023-05-02T13:07:49.161Z"
+        },
+        "updatedAt": {
+          "$date": "2023-05-03T19:34:52.693Z"
+        },
+        "product_ID": 1,
+        "slug": "cho-corgi",
+        "__v": 0
+      }
+    },
+    {
+      "quantity": 1,
+      "product": {
+        "_id": {
+          "$oid": "64512440306c7972004cca51"
+        },
+        "name": "MÈO ANH LÔNG NGẮN",
+        "categoryID": 2,
+        "quantity": 1,
+        "price": 600000,
+        "salePrice": null,
+        "des": "Mèo Anh lông ngắn là một giống mèo có nguồn gốc từ Anh. Chúng có bộ lông ngắn, dày và mịn, với các màu sắc khác nhau bao gồm màu đen, xám, vàng và trắng. Mèo Anh lông ngắn có kích thước trung bình, nặng khoảng 4-6 kg và cao từ 30-40 cm. Chúng có tính cách thân thiện, tình cảm, dễ huấn luyện và thích giao tiếp với con người. Mèo Anh lông ngắn cũng thường được mô tả là mèo thông minh, có khả năng hiểu và học hỏi nhanh chóng. Với tính cách dễ thương và thân thiện của mình, chúng được nuôi rộng rãi làm thú cưng trong gia đình và là một trong những giống mèo được yêu thích nhất trên thế giới.",
+        "image": "https://dogily.vn/wp-content/uploads/2022/06/meo-anh-long-ngan-xam-xanh-truong-thanh-scaled-400x400.jpg",
+        "createdAt": {
+          "$date": "2023-05-02T14:54:56.834Z"
+        },
+        "updatedAt": {
+          "$date": "2023-05-02T14:54:56.834Z"
+        },
+        "slug": "meo-anh-long-ngan",
+        "product_ID": 7,
+        "__v": 0
+      }
+    },
+    {
+      "quantity": 1,
+      "product": {
+        "_id": {
+          "$oid": "64512703306c7972004cca8d"
+        },
+        "name": "Hạt Dog Mania Cho Chó Trưởng Thành 3kg",
+        "categoryID": 3,
+        "quantity": 4,
+        "price": 280000,
+        "salePrice": null,
+        "des": "Hạt Dog Mania Cho Chó Trưởng Thành là sản phẩm thức ăn dành cho chó là một trong những sản phẩm được ưa chuộng hàng đầu tại Việt Nam hiện nay. Hạt Dog Mania cho chó sản xuất trên dây chuyền công nghệ hiện đại, phù hợp với các giống chó trưởng thành.",
+        "image": "https://dogily.vn/wp-content/uploads/2021/12/dog-mania-cho-cho-truong-thanh-3-kg-1-510x510.jpg",
+        "createdAt": {
+          "$date": "2023-05-02T15:06:43.659Z"
+        },
+        "updatedAt": {
+          "$date": "2023-05-02T15:06:43.659Z"
+        },
+        "slug": "hat-dog-mania-cho-cho-truong-thanh-3kg",
+        "product_ID": 13,
+        "__v": 0
+      }
+    },
+    {
+      "quantity": 2,
+      "product": {
+        "_id": {
+          "$oid": "64510e6f306c7972004cc9de"
+        },
+        "name": "CHÓ POODLE",
+        "categoryID": 1,
+        "quantity": 1,
+        "price": 1200000,
+        "salePrice": null,
+        "des": "Chó Poodle là một giống chó có nguồn gốc từ Pháp. Chúng có kích thước trung bình, thông minh, trung thành và thân thiện với con người. Poodle có 3 kích cỡ chính là Poodle tiêu chuẩn, Poodle nhỏ và Poodle siêu nhỏ. Bộ lông của Poodle rất đặc trưng, có thể được cắt thành nhiều kiểu dáng khác nhau để tạo nên nhiều phong cách khác nhau. Poodle cũng là một trong những giống chó ít gây dị ứng và rụng lông nhiều, do đó được ưa chuộng trong việc nuôi làm thú cưng trong gia đình. Poodle cũng được đào tạo để làm chó hướng dẫn cho người mù, chó cảnh sát và chó tìm kiếm. Ngoài ra, chúng cũng thường được sử dụng trong các cuộc thi về thể lực và vẻ đẹp của chó.",
+        "image": "https://dogily.vn/wp-content/uploads/2022/07/cho-poodle-teacup-mau-trang-cai-9-400x400.png",
+        "createdAt": {
+          "$date": "2023-05-02T13:21:51.381Z"
+        },
+        "updatedAt": {
+          "$date": "2023-05-02T14:02:48.031Z"
+        },
+        "slug": "cho-poodle",
+        "product_ID": 3,
+        "__v": 0
+      }
+    },
+    {
+      "quantity": 1,
+      "product": {
+        "_id": {
+          "$oid": "64511108306c7972004cc9ec"
+        },
+        "name": "CHÓ BICHON",
+        "categoryID": 1,
+        "quantity": 1,
+        "price": 1200000,
+        "salePrice": null,
+        "des": "Chó Bichon là một giống chó nhỏ có nguồn gốc từ vùng Địa Trung Hải. Chúng có bộ lông dày và mịn, tạo nên vẻ đẹp quyến rũ và đáng yêu đặc trưng của giống chó này. Bichon có kích thước trung bình khoảng 20-30 cm và cân nặng khoảng 3-6 kg. Chúng là giống chó trung thành, thân thiện và dễ thương, thường được nuôi như là một thành viên trong gia đình. Bichon thường không rụng lông nhiều, là giống chó thích hợp cho những người bị dị ứng với lông chó. Chúng cũng thích được chơi đùa và có tính cách dễ dàng hòa đồng với con người và các loài vật khác. Bichon được chia thành nhiều giống khác nhau như Bichon Frise, Bichon Havanese và Bichon Maltese.",
+        "image": "https://dogily.vn/wp-content/uploads/2022/06/cho-bichon-trang-cai-7-400x400.png",
+        "createdAt": {
+          "$date": "2023-05-02T13:32:56.988Z"
+        },
+        "updatedAt": {
+          "$date": "2023-05-02T13:33:07.815Z"
+        },
+        "slug": "cho-bichon",
+        "product_ID": 4,
+        "__v": 0
+      }
+    }
+  ],
+  "id_customer": 1,
+  "name_customer": "Đặng Quốc Huy 3",
+  "address": "224, Quang Trung",
+  "phone": "0985647854",
+  "total_order": 5280000,
+  "createdAt": {
+    "$date": "2023-05-07T04:47:21.028Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T04:47:21.028Z"
+  },
+  "order_ID": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64572de241cce322bca7a082"
+  },
+  "details": [
+    {
+      "quantity": 1,
+      "product": {
+        "_id": {
+          "$oid": "64511108306c7972004cc9ec"
+        },
+        "name": "CHÓ BICHON",
+        "categoryID": 1,
+        "quantity": 1,
+        "price": 1200000,
+        "salePrice": null,
+        "des": "Chó Bichon là một giống chó nhỏ có nguồn gốc từ vùng Địa Trung Hải. Chúng có bộ lông dày và mịn, tạo nên vẻ đẹp quyến rũ và đáng yêu đặc trưng của giống chó này. Bichon có kích thước trung bình khoảng 20-30 cm và cân nặng khoảng 3-6 kg. Chúng là giống chó trung thành, thân thiện và dễ thương, thường được nuôi như là một thành viên trong gia đình. Bichon thường không rụng lông nhiều, là giống chó thích hợp cho những người bị dị ứng với lông chó. Chúng cũng thích được chơi đùa và có tính cách dễ dàng hòa đồng với con người và các loài vật khác. Bichon được chia thành nhiều giống khác nhau như Bichon Frise, Bichon Havanese và Bichon Maltese.",
+        "image": "https://dogily.vn/wp-content/uploads/2022/06/cho-bichon-trang-cai-7-400x400.png",
+        "createdAt": {
+          "$date": "2023-05-02T13:32:56.988Z"
+        },
+        "updatedAt": {
+          "$date": "2023-05-02T13:33:07.815Z"
+        },
+        "slug": "cho-bichon",
+        "product_ID": 4,
+        "__v": 0
+      }
+    }
+  ],
+  "id_customer": 1,
+  "name_customer": "Đặng Quốc Huy 4",
+  "address": "256, Tô ký",
+  "phone": "0765438765",
+  "total_order": 1200000,
+  "createdAt": {
+    "$date": "2023-05-07T04:49:38.868Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T04:49:38.868Z"
+  },
+  "order_ID": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64572efd41cce322bca7a0a5"
+  },
+  "details": [
+    {
+      "quantity": 1,
+      "product": {
+        "_id": {
+          "$oid": "645119e9306c7972004cca3f"
+        },
+        "name": "CHÓ GOLDEN",
+        "categoryID": 1,
+        "quantity": 1,
+        "price": 800000,
+        "salePrice": null,
+        "des": "Chó Golden Retriever, hay còn gọi là Chó săn vịt vàng, là một giống chó với nguồn gốc từ Scotland. Chúng là một trong những giống chó phổ biến nhất trên thế giới và được nuôi như là một thành viên trong gia đình, cũng như được sử dụng trong các nhiệm vụ canh gác, săn bắn và tìm kiếm. Golden Retriever có bộ lông dày, mượt và có màu sắc từ màu kem đến màu vàng. Chúng có tính cách trung thành, thân thiện và dễ dàng huấn luyện. Chó Golden Retriever thường được sử dụng để làm chó dẫn đường cho người mù, chó canh gác và chó cứu hộ. Ngoài ra, chúng cũng thường được sử dụng trong các cuộc thi về thể lực và khả năng của chó.",
+        "image": "https://dogily.vn/wp-content/uploads/2022/05/cho-golden-retriever-400x400.jpg",
+        "createdAt": {
+          "$date": "2023-05-02T14:10:49.614Z"
+        },
+        "updatedAt": {
+          "$date": "2023-05-02T14:10:49.614Z"
+        },
+        "slug": "cho-golden",
+        "product_ID": 5,
+        "__v": 0
+      }
+    }
+  ],
+  "id_customer": 1,
+  "name_customer": "Đặng Quốc Huy 5",
+  "address": "175/4,  Lê Đức Thọ",
+  "phone": "0765438765",
+  "total_order": 800000,
+  "createdAt": {
+    "$date": "2023-05-07T04:54:21.511Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T04:54:21.511Z"
+  },
+  "order_ID": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64572f7741cce322bca7a0f4"
+  },
+  "details": [
+    {
+      "quantity": 2,
+      "product": {
+        "_id": {
+          "$oid": "64512512306c7972004cca63"
+        },
+        "name": "MÈO TOYGER",
+        "categoryID": 2,
+        "quantity": 1,
+        "price": 1000000,
+        "salePrice": null,
+        "des": "Mèo Toyger là một giống mèo lai được nuôi tạo ra để giống như hình ảnh của một con hổ trên thế giới hoang dã. Chúng có nguồn gốc từ Mỹ và được phát triển vào những năm 1980. Bộ lông của mèo Toyger có màu cam đậm với sọc đen, tạo nên hình ảnh giống như một con hổ mini.  Mèo Toyger có kích thước trung bình, nặng khoảng 4-6 kg và cao từ 25-30 cm. Chúng có tính cách thân thiện, dễ thương và năng động. Mèo Toyger cũng được mô tả là mèo thông minh và có khả năng học hỏi nhanh chóng. Chúng thường được nuôi làm thú cưng trong gia đình và có tính cách hướng ngoại, thích giao tiếp với con người.",
+        "image": "https://dogily.vn/wp-content/uploads/2021/05/meo-toyger-duoc-nhan-giong-tu-bengal-400x400.jpg",
+        "createdAt": {
+          "$date": "2023-05-02T14:58:26.690Z"
+        },
+        "updatedAt": {
+          "$date": "2023-05-02T14:58:26.690Z"
+        },
+        "slug": "meo-toyger",
+        "product_ID": 9,
+        "__v": 0
+      }
+    },
+    {
+      "quantity": 1,
+      "product": {
+        "_id": {
+          "$oid": "645125bc306c7972004cca75"
+        },
+        "name": "MÈO BA TƯ",
+        "categoryID": 2,
+        "quantity": 1,
+        "price": 900000,
+        "salePrice": null,
+        "des": "Mèo Ba Tư hay còn được gọi là mèo Shirazi, là một giống mèo có nguồn gốc từ Iran (trước đây là Ba Tư). Chúng được phát triển từ các giống mèo địa phương của vùng Shiraz, Iran. Mèo Ba Tư là một giống mèo lớn, có thân hình to, bộ lông dài, mượt và mềm mại.  Mèo Ba Tư có kích thước lớn, nặng khoảng 4-7 kg và cao từ 25-35 cm. Chúng có đầu tròn, tai nhỏ, mũi ngắn và mắt lớn tròn. Màu sắc của bộ lông mèo Ba Tư phổ biến là màu trắng, kem, xám, đen và nâu. Tính cách của mèo Ba Tư thân thiện, tình cảm và độc lập. Chúng thường được mô tả là một trong những giống mèo ít kêu và thích nằm trong nhà.",
+        "image": "https://dogily.vn/wp-content/uploads/2019/12/meo-ba-tu-duc-dogily-3-thang-3-400x400.jpg",
+        "createdAt": {
+          "$date": "2023-05-02T15:01:16.818Z"
+        },
+        "updatedAt": {
+          "$date": "2023-05-02T15:01:16.818Z"
+        },
+        "slug": "meo-ba-tu",
+        "product_ID": 11,
+        "__v": 0
+      }
+    }
+  ],
+  "id_customer": 2,
+  "name_customer": "Phan Thanh Dương 1",
+  "address": "224, Quang Trung",
+  "phone": "0765438765",
+  "total_order": 2900000,
+  "createdAt": {
+    "$date": "2023-05-07T04:56:23.313Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T04:56:23.313Z"
+  },
+  "order_ID": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64572f9741cce322bca7a0ff"
+  },
+  "details": [
+    {
+      "quantity": 1,
+      "product": {
+        "_id": {
+          "$oid": "64510b25306c7972004cc9ba"
+        },
+        "name": "CHÓ CORGI",
+        "categoryID": 1,
+        "quantity": 1,
+        "price": 1000000,
+        "salePrice": 800000,
+        "des": " Chó Corgi là một giống chó có nguồn gốc từ xứ Wales. Chúng thuộc nhóm chó săn và đã được nuôi để giúp đàn gia súc của người dân vùng đó từ thế kỷ 10. Corgi có 2 loại chính là Pembroke và Cardigan, những chú chó này có chiều cao trung bình khoảng 25-30 cm và cân nặng khoảng 10-15 kg. Chúng có thân hình ngắn, chân ngắn, đuôi ngắn và đôi tai đứng thẳng. Corgi là một giống chó thông minh, trung thành và năng động, thường được dùng làm chó canh gác, chó chăn cừu hoặc làm thú cưng trong gia đình. Với bộ lông ngắn và dễ chăm sóc, Corgi trở thành một trong những giống chó được ưa chuộng nhất trên thế giới.",
+        "image": "https://dogily.vn/wp-content/uploads/2022/04/corgi-vang-trang-duc-4-400x400.png",
+        "createdAt": {
+          "$date": "2023-05-02T13:07:49.161Z"
+        },
+        "updatedAt": {
+          "$date": "2023-05-03T19:34:52.693Z"
+        },
+        "product_ID": 1,
+        "slug": "cho-corgi",
+        "__v": 0
+      }
+    },
+    {
+      "quantity": 2,
+      "product": {
+        "_id": {
+          "$oid": "64510c28306c7972004cc9c6"
+        },
+        "name": "CHÓ PHỐC SỐC",
+        "categoryID": 1,
+        "quantity": 1,
+        "price": 900000,
+        "salePrice": null,
+        "des": "Chó Phốc sóc (Pug) là một giống chó nhỏ có nguồn gốc từ Trung Quốc. Chúng có đầu to, mõm nhăn và đôi mắt to tròn, tạo nên vẻ đáng yêu và hài hước đặc trưng của giống chó này. Pug có chiều cao trung bình khoảng 25 cm và cân nặng khoảng 6-8 kg. Chúng là giống chó thân thiện, vui vẻ và dễ dàng thích nghi với môi trường sống. Pug rất thích được chơi đùa và có tính cách dễ dàng hòa đồng với con người và các loài vật khác. Tuy nhiên, Pug cũng có thể bị mắc các vấn đề sức khỏe liên quan đến hệ hô hấp và thường cần được chăm sóc kỹ lưỡng để giữ gìn sức khỏe. Chúng thường được nuôi làm thú cưng trong gia đình và trở thành một trong những giống chó phổ biến nhất trên thế giới.",
+        "image": "https://dogily.vn/wp-content/uploads/2022/08/cho-phoc-soc-vang-duc-day-du-giay-vka-2-400x400.png",
+        "createdAt": {
+          "$date": "2023-05-02T13:12:08.054Z"
+        },
+        "updatedAt": {
+          "$date": "2023-05-02T14:02:43.864Z"
+        },
+        "slug": "cho-phoc-soc",
+        "product_ID": 2,
+        "__v": 0
+      }
+    }
+  ],
+  "id_customer": 2,
+  "name_customer": "Phan Thanh Dương 2",
+  "address": "317/18 Thống Nhất",
+  "phone": "0985647854",
+  "total_order": 2600000,
+  "createdAt": {
+    "$date": "2023-05-07T04:56:55.554Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T04:56:55.554Z"
+  },
+  "order_ID": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64572fad41cce322bca7a10a"
+  },
+  "details": [
+    {
+      "quantity": 1,
+      "product": {
+        "_id": {
+          "$oid": "64510b25306c7972004cc9ba"
+        },
+        "name": "CHÓ CORGI",
+        "categoryID": 1,
+        "quantity": 1,
+        "price": 1000000,
+        "salePrice": 800000,
+        "des": " Chó Corgi là một giống chó có nguồn gốc từ xứ Wales. Chúng thuộc nhóm chó săn và đã được nuôi để giúp đàn gia súc của người dân vùng đó từ thế kỷ 10. Corgi có 2 loại chính là Pembroke và Cardigan, những chú chó này có chiều cao trung bình khoảng 25-30 cm và cân nặng khoảng 10-15 kg. Chúng có thân hình ngắn, chân ngắn, đuôi ngắn và đôi tai đứng thẳng. Corgi là một giống chó thông minh, trung thành và năng động, thường được dùng làm chó canh gác, chó chăn cừu hoặc làm thú cưng trong gia đình. Với bộ lông ngắn và dễ chăm sóc, Corgi trở thành một trong những giống chó được ưa chuộng nhất trên thế giới.",
+        "image": "https://dogily.vn/wp-content/uploads/2022/04/corgi-vang-trang-duc-4-400x400.png",
+        "createdAt": {
+          "$date": "2023-05-02T13:07:49.161Z"
+        },
+        "updatedAt": {
+          "$date": "2023-05-03T19:34:52.693Z"
+        },
+        "product_ID": 1,
+        "slug": "cho-corgi",
+        "__v": 0
+      }
+    }
+  ],
+  "id_customer": 2,
+  "name_customer": "Phan Thanh Dương 3",
+  "address": "224, Quang Trung",
+  "phone": "0765438765",
+  "total_order": 800000,
+  "createdAt": {
+    "$date": "2023-05-07T04:57:17.250Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T04:57:17.250Z"
+  },
+  "order_ID": 8,
+  "__v": 0
+}]

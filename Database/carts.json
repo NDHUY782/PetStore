@@ -1,0 +1,172 @@
+[{
+  "_id": {
+    "$oid": "64572bfdaa616706e42aa529"
+  },
+  "id_product": 1,
+  "name_product": "CHÓ CORGI",
+  "image_product": "https://dogily.vn/wp-content/uploads/2022/04/corgi-vang-trang-duc-4-400x400.png",
+  "quantity": 1,
+  "price_product": 800000,
+  "id_customer": 1,
+  "createdAt": {
+    "$date": "2023-05-07T04:41:33.753Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T04:41:33.753Z"
+  },
+  "cart_ID": 1,
+  "slug": "cho-corgi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64572c00aa616706e42aa535"
+  },
+  "id_product": 7,
+  "name_product": "MÈO ANH LÔNG NGẮN",
+  "image_product": "https://dogily.vn/wp-content/uploads/2022/06/meo-anh-long-ngan-xam-xanh-truong-thanh-scaled-400x400.jpg",
+  "quantity": 1,
+  "price_product": 600000,
+  "id_customer": 1,
+  "createdAt": {
+    "$date": "2023-05-07T04:41:36.370Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T04:41:36.370Z"
+  },
+  "slug": "meo-anh-long-ngan",
+  "cart_ID": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64572c04aa616706e42aa542"
+  },
+  "id_product": 13,
+  "name_product": "Hạt Dog Mania Cho Chó Trưởng Thành 3kg",
+  "image_product": "https://dogily.vn/wp-content/uploads/2021/12/dog-mania-cho-cho-truong-thanh-3-kg-1-510x510.jpg",
+  "quantity": 1,
+  "price_product": 280000,
+  "id_customer": 1,
+  "createdAt": {
+    "$date": "2023-05-07T04:41:40.163Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T04:41:40.163Z"
+  },
+  "slug": "hat-dog-mania-cho-cho-truong-thanh-3kg",
+  "cart_ID": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64572c0daa616706e42aa54f"
+  },
+  "id_product": 3,
+  "name_product": "CHÓ POODLE",
+  "image_product": "https://dogily.vn/wp-content/uploads/2022/07/cho-poodle-teacup-mau-trang-cai-9-400x400.png",
+  "quantity": 2,
+  "price_product": 1200000,
+  "id_customer": 1,
+  "createdAt": {
+    "$date": "2023-05-07T04:41:49.269Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T04:41:53.756Z"
+  },
+  "slug": "cho-poodle",
+  "cart_ID": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64572c0faa616706e42aa55c"
+  },
+  "id_product": 4,
+  "name_product": "CHÓ BICHON",
+  "image_product": "https://dogily.vn/wp-content/uploads/2022/06/cho-bichon-trang-cai-7-400x400.png",
+  "quantity": 1,
+  "price_product": 1200000,
+  "id_customer": 1,
+  "createdAt": {
+    "$date": "2023-05-07T04:41:51.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T04:41:51.337Z"
+  },
+  "slug": "cho-bichon",
+  "cart_ID": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64572f5841cce322bca7a0b4"
+  },
+  "id_product": 1,
+  "name_product": "CHÓ CORGI",
+  "image_product": "https://dogily.vn/wp-content/uploads/2022/04/corgi-vang-trang-duc-4-400x400.png",
+  "quantity": 1,
+  "price_product": 800000,
+  "id_customer": 2,
+  "createdAt": {
+    "$date": "2023-05-07T04:55:52.289Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T04:55:52.289Z"
+  },
+  "cart_ID": 6,
+  "slug": "cho-corgi-IrXhD1DQzG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64572f5a41cce322bca7a0c1"
+  },
+  "id_product": 2,
+  "name_product": "CHÓ PHỐC SỐC",
+  "image_product": "https://dogily.vn/wp-content/uploads/2022/08/cho-phoc-soc-vang-duc-day-du-giay-vka-2-400x400.png",
+  "quantity": 2,
+  "price_product": 900000,
+  "id_customer": 2,
+  "createdAt": {
+    "$date": "2023-05-07T04:55:54.169Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T04:55:55.796Z"
+  },
+  "slug": "cho-phoc-soc",
+  "cart_ID": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64572f5d41cce322bca7a0d3"
+  },
+  "id_product": 9,
+  "name_product": "MÈO TOYGER",
+  "image_product": "https://dogily.vn/wp-content/uploads/2021/05/meo-toyger-duoc-nhan-giong-tu-bengal-400x400.jpg",
+  "quantity": 2,
+  "price_product": 1000000,
+  "id_customer": 2,
+  "createdAt": {
+    "$date": "2023-05-07T04:55:57.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T04:56:03.922Z"
+  },
+  "slug": "meo-toyger",
+  "cart_ID": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64572f6141cce322bca7a0e0"
+  },
+  "id_product": 11,
+  "name_product": "MÈO BA TƯ",
+  "image_product": "https://dogily.vn/wp-content/uploads/2019/12/meo-ba-tu-duc-dogily-3-thang-3-400x400.jpg",
+  "quantity": 1,
+  "price_product": 900000,
+  "id_customer": 2,
+  "createdAt": {
+    "$date": "2023-05-07T04:56:01.723Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T04:56:01.723Z"
+  },
+  "slug": "meo-ba-tu",
+  "cart_ID": 9,
+  "__v": 0
+}]

@@ -1,0 +1,441 @@
+[{
+  "_id": {
+    "$oid": "64510b25306c7972004cc9ba"
+  },
+  "name": "CHÓ CORGI",
+  "categoryID": 1,
+  "quantity": 1,
+  "price": 1000000,
+  "salePrice": 800000,
+  "des": " Chó Corgi là một giống chó có nguồn gốc từ xứ Wales. Chúng thuộc nhóm chó săn và đã được nuôi để giúp đàn gia súc của người dân vùng đó từ thế kỷ 10. Corgi có 2 loại chính là Pembroke và Cardigan, những chú chó này có chiều cao trung bình khoảng 25-30 cm và cân nặng khoảng 10-15 kg. Chúng có thân hình ngắn, chân ngắn, đuôi ngắn và đôi tai đứng thẳng. Corgi là một giống chó thông minh, trung thành và năng động, thường được dùng làm chó canh gác, chó chăn cừu hoặc làm thú cưng trong gia đình. Với bộ lông ngắn và dễ chăm sóc, Corgi trở thành một trong những giống chó được ưa chuộng nhất trên thế giới.",
+  "image": "https://dogily.vn/wp-content/uploads/2022/04/corgi-vang-trang-duc-4-400x400.png",
+  "createdAt": {
+    "$date": "2023-05-02T13:07:49.161Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T19:34:52.693Z"
+  },
+  "product_ID": 1,
+  "slug": "cho-corgi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64510c28306c7972004cc9c6"
+  },
+  "name": "CHÓ PHỐC SỐC",
+  "categoryID": 1,
+  "quantity": 1,
+  "price": 900000,
+  "salePrice": null,
+  "des": "Chó Phốc sóc (Pug) là một giống chó nhỏ có nguồn gốc từ Trung Quốc. Chúng có đầu to, mõm nhăn và đôi mắt to tròn, tạo nên vẻ đáng yêu và hài hước đặc trưng của giống chó này. Pug có chiều cao trung bình khoảng 25 cm và cân nặng khoảng 6-8 kg. Chúng là giống chó thân thiện, vui vẻ và dễ dàng thích nghi với môi trường sống. Pug rất thích được chơi đùa và có tính cách dễ dàng hòa đồng với con người và các loài vật khác. Tuy nhiên, Pug cũng có thể bị mắc các vấn đề sức khỏe liên quan đến hệ hô hấp và thường cần được chăm sóc kỹ lưỡng để giữ gìn sức khỏe. Chúng thường được nuôi làm thú cưng trong gia đình và trở thành một trong những giống chó phổ biến nhất trên thế giới.",
+  "image": "https://dogily.vn/wp-content/uploads/2022/08/cho-phoc-soc-vang-duc-day-du-giay-vka-2-400x400.png",
+  "createdAt": {
+    "$date": "2023-05-02T13:12:08.054Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T14:02:43.864Z"
+  },
+  "slug": "cho-phoc-soc",
+  "product_ID": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64510e6f306c7972004cc9de"
+  },
+  "name": "CHÓ POODLE",
+  "categoryID": 1,
+  "quantity": 1,
+  "price": 1200000,
+  "salePrice": null,
+  "des": "Chó Poodle là một giống chó có nguồn gốc từ Pháp. Chúng có kích thước trung bình, thông minh, trung thành và thân thiện với con người. Poodle có 3 kích cỡ chính là Poodle tiêu chuẩn, Poodle nhỏ và Poodle siêu nhỏ. Bộ lông của Poodle rất đặc trưng, có thể được cắt thành nhiều kiểu dáng khác nhau để tạo nên nhiều phong cách khác nhau. Poodle cũng là một trong những giống chó ít gây dị ứng và rụng lông nhiều, do đó được ưa chuộng trong việc nuôi làm thú cưng trong gia đình. Poodle cũng được đào tạo để làm chó hướng dẫn cho người mù, chó cảnh sát và chó tìm kiếm. Ngoài ra, chúng cũng thường được sử dụng trong các cuộc thi về thể lực và vẻ đẹp của chó.",
+  "image": "https://dogily.vn/wp-content/uploads/2022/07/cho-poodle-teacup-mau-trang-cai-9-400x400.png",
+  "createdAt": {
+    "$date": "2023-05-02T13:21:51.381Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T14:02:48.031Z"
+  },
+  "slug": "cho-poodle",
+  "product_ID": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64511108306c7972004cc9ec"
+  },
+  "name": "CHÓ BICHON",
+  "categoryID": 1,
+  "quantity": 1,
+  "price": 1200000,
+  "salePrice": null,
+  "des": "Chó Bichon là một giống chó nhỏ có nguồn gốc từ vùng Địa Trung Hải. Chúng có bộ lông dày và mịn, tạo nên vẻ đẹp quyến rũ và đáng yêu đặc trưng của giống chó này. Bichon có kích thước trung bình khoảng 20-30 cm và cân nặng khoảng 3-6 kg. Chúng là giống chó trung thành, thân thiện và dễ thương, thường được nuôi như là một thành viên trong gia đình. Bichon thường không rụng lông nhiều, là giống chó thích hợp cho những người bị dị ứng với lông chó. Chúng cũng thích được chơi đùa và có tính cách dễ dàng hòa đồng với con người và các loài vật khác. Bichon được chia thành nhiều giống khác nhau như Bichon Frise, Bichon Havanese và Bichon Maltese.",
+  "image": "https://dogily.vn/wp-content/uploads/2022/06/cho-bichon-trang-cai-7-400x400.png",
+  "createdAt": {
+    "$date": "2023-05-02T13:32:56.988Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T13:33:07.815Z"
+  },
+  "slug": "cho-bichon",
+  "product_ID": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645119e9306c7972004cca3f"
+  },
+  "name": "CHÓ GOLDEN",
+  "categoryID": 1,
+  "quantity": 1,
+  "price": 800000,
+  "salePrice": null,
+  "des": "Chó Golden Retriever, hay còn gọi là Chó săn vịt vàng, là một giống chó với nguồn gốc từ Scotland. Chúng là một trong những giống chó phổ biến nhất trên thế giới và được nuôi như là một thành viên trong gia đình, cũng như được sử dụng trong các nhiệm vụ canh gác, săn bắn và tìm kiếm. Golden Retriever có bộ lông dày, mượt và có màu sắc từ màu kem đến màu vàng. Chúng có tính cách trung thành, thân thiện và dễ dàng huấn luyện. Chó Golden Retriever thường được sử dụng để làm chó dẫn đường cho người mù, chó canh gác và chó cứu hộ. Ngoài ra, chúng cũng thường được sử dụng trong các cuộc thi về thể lực và khả năng của chó.",
+  "image": "https://dogily.vn/wp-content/uploads/2022/05/cho-golden-retriever-400x400.jpg",
+  "createdAt": {
+    "$date": "2023-05-02T14:10:49.614Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T14:10:49.614Z"
+  },
+  "slug": "cho-golden",
+  "product_ID": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645123c1306c7972004cca48"
+  },
+  "name": "CHÓ ALASKA",
+  "categoryID": 1,
+  "quantity": 1,
+  "price": 1500000,
+  "salePrice": null,
+  "des": "Chó Alaska, hay còn được gọi là Chó kéo xe Alaska, là một giống chó có nguồn gốc từ Alaska, Hoa Kỳ. Chúng được nuôi để kéo xe, chở hàng hoặc làm việc trong điều kiện khắc nghiệt. Chó Alaska có kích thước lớn, cân nặng trung bình khoảng 30-45 kg và cao từ 58-66 cm. Chúng có bộ lông dày và khá toàn bộ, giúp chúng chịu được thời tiết lạnh và gió mạnh. Alaska cũng có tính cách trung thành, độc lập và thông minh. Chúng cần được huấn luyện và có công việc để làm để tránh tình trạng rối loạn hành vi. Chó Alaska cũng thường được nuôi làm thú cưng trong gia đình, tuy nhiên, do kích thước lớn và năng lượng mạnh mẽ, nên được nuôi trong những ngôi nhà có không gian rộng và có chủ nhân có kinh nghiệm trong việc nuôi chó.",
+  "image": "https://dogily.vn/wp-content/uploads/2022/04/cho-alaska-400x400.jpg",
+  "createdAt": {
+    "$date": "2023-05-02T14:52:49.887Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T14:52:49.887Z"
+  },
+  "slug": "cho-alaska",
+  "product_ID": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64512440306c7972004cca51"
+  },
+  "name": "MÈO ANH LÔNG NGẮN",
+  "categoryID": 2,
+  "quantity": 1,
+  "price": 600000,
+  "salePrice": null,
+  "des": "Mèo Anh lông ngắn là một giống mèo có nguồn gốc từ Anh. Chúng có bộ lông ngắn, dày và mịn, với các màu sắc khác nhau bao gồm màu đen, xám, vàng và trắng. Mèo Anh lông ngắn có kích thước trung bình, nặng khoảng 4-6 kg và cao từ 30-40 cm. Chúng có tính cách thân thiện, tình cảm, dễ huấn luyện và thích giao tiếp với con người. Mèo Anh lông ngắn cũng thường được mô tả là mèo thông minh, có khả năng hiểu và học hỏi nhanh chóng. Với tính cách dễ thương và thân thiện của mình, chúng được nuôi rộng rãi làm thú cưng trong gia đình và là một trong những giống mèo được yêu thích nhất trên thế giới.",
+  "image": "https://dogily.vn/wp-content/uploads/2022/06/meo-anh-long-ngan-xam-xanh-truong-thanh-scaled-400x400.jpg",
+  "createdAt": {
+    "$date": "2023-05-02T14:54:56.834Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T14:54:56.834Z"
+  },
+  "slug": "meo-anh-long-ngan",
+  "product_ID": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645124a2306c7972004cca5a"
+  },
+  "name": "MÈO ANH LÔNG DÀI",
+  "categoryID": 2,
+  "quantity": 1,
+  "price": 1000000,
+  "salePrice": null,
+  "des": "Mèo Anh lông dài là một giống mèo có nguồn gốc từ Anh. Chúng có bộ lông dài, mượt và dày, với các màu sắc khác nhau bao gồm màu xám, màu vàng, màu kem và màu trắng. Mèo Anh lông dài có kích thước trung bình, nặng khoảng 4-6 kg và cao từ 30-40 cm. Chúng có tính cách thân thiện, tình cảm và thông minh. Mèo Anh lông dài thường được mô tả là mèo tinh tế, có nét duyên dáng và thanh lịch. Chúng cũng thường được coi là giống mèo độc lập, thích sự yên tĩnh và có tính cách độc đáo của riêng mình.  Mèo Anh lông dài cần chăm sóc bộ lông thường xuyên để giữ cho nó luôn sạch sẽ, mượt mà và không bị rối. Nếu không được chăm sóc đúng cách, bộ lông của chúng có thể bị rối, gây đau đớn cho chúng và cũng dễ dẫn đến các vấn đề sức khỏe khác. Với tính cách dễ thương và duyên dáng của mình, mèo Anh lông dài là một trong những giống mèo được yêu thích và nuôi rộng rãi nhất trên thế giới.",
+  "image": "https://dogily.vn/wp-content/uploads/2020/03/meo-anh-long-dai-de-thuong-400x400.jpg",
+  "createdAt": {
+    "$date": "2023-05-02T14:56:34.968Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T14:56:34.968Z"
+  },
+  "slug": "meo-anh-long-dai",
+  "product_ID": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64512512306c7972004cca63"
+  },
+  "name": "MÈO TOYGER",
+  "categoryID": 2,
+  "quantity": 1,
+  "price": 1000000,
+  "salePrice": null,
+  "des": "Mèo Toyger là một giống mèo lai được nuôi tạo ra để giống như hình ảnh của một con hổ trên thế giới hoang dã. Chúng có nguồn gốc từ Mỹ và được phát triển vào những năm 1980. Bộ lông của mèo Toyger có màu cam đậm với sọc đen, tạo nên hình ảnh giống như một con hổ mini.  Mèo Toyger có kích thước trung bình, nặng khoảng 4-6 kg và cao từ 25-30 cm. Chúng có tính cách thân thiện, dễ thương và năng động. Mèo Toyger cũng được mô tả là mèo thông minh và có khả năng học hỏi nhanh chóng. Chúng thường được nuôi làm thú cưng trong gia đình và có tính cách hướng ngoại, thích giao tiếp với con người.",
+  "image": "https://dogily.vn/wp-content/uploads/2021/05/meo-toyger-duoc-nhan-giong-tu-bengal-400x400.jpg",
+  "createdAt": {
+    "$date": "2023-05-02T14:58:26.690Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T14:58:26.690Z"
+  },
+  "slug": "meo-toyger",
+  "product_ID": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64512570306c7972004cca6c"
+  },
+  "name": "MÈO RAGDOLL",
+  "categoryID": 2,
+  "quantity": 1,
+  "price": 1200000,
+  "salePrice": null,
+  "des": "Mèo Ragdoll là một giống mèo có nguồn gốc từ Hoa Kỳ, được phát triển vào những năm 1960. Chúng có tên gọi Ragdoll (nghĩa là \"búp bê vải\") vì tính cách của chúng khiến chúng trở thành một trong những giống mèo thân thiện và dễ dàng trong việc nâng lên và ôm ấp giống như búp bê.  Mèo Ragdoll có bộ lông dài, dày và mượt, với các màu sắc phổ biến bao gồm màu xám, màu vàng và màu trắng. Chúng có kích thước lớn, nặng từ 4 đến 9 kg và cao từ 30 đến 40 cm. Tính cách của mèo Ragdoll thân thiện, yêu thương và dễ dàng trong việc giao tiếp với con người và các thú cưng khác. Chúng cũng được mô tả là giống mèo rất lười biếng và thích nằm nghỉ nhiều, tuy nhiên chúng vẫn rất thân thiện và thích chơi đùa.",
+  "image": "https://dogily.vn/wp-content/uploads/2022/01/ragdoll-dogily-2-400x400.jpg",
+  "createdAt": {
+    "$date": "2023-05-02T15:00:00.365Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T15:00:00.365Z"
+  },
+  "slug": "meo-ragdoll",
+  "product_ID": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645125bc306c7972004cca75"
+  },
+  "name": "MÈO BA TƯ",
+  "categoryID": 2,
+  "quantity": 1,
+  "price": 900000,
+  "salePrice": null,
+  "des": "Mèo Ba Tư hay còn được gọi là mèo Shirazi, là một giống mèo có nguồn gốc từ Iran (trước đây là Ba Tư). Chúng được phát triển từ các giống mèo địa phương của vùng Shiraz, Iran. Mèo Ba Tư là một giống mèo lớn, có thân hình to, bộ lông dài, mượt và mềm mại.  Mèo Ba Tư có kích thước lớn, nặng khoảng 4-7 kg và cao từ 25-35 cm. Chúng có đầu tròn, tai nhỏ, mũi ngắn và mắt lớn tròn. Màu sắc của bộ lông mèo Ba Tư phổ biến là màu trắng, kem, xám, đen và nâu. Tính cách của mèo Ba Tư thân thiện, tình cảm và độc lập. Chúng thường được mô tả là một trong những giống mèo ít kêu và thích nằm trong nhà.",
+  "image": "https://dogily.vn/wp-content/uploads/2019/12/meo-ba-tu-duc-dogily-3-thang-3-400x400.jpg",
+  "createdAt": {
+    "$date": "2023-05-02T15:01:16.818Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T15:01:16.818Z"
+  },
+  "slug": "meo-ba-tu",
+  "product_ID": 11,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6451260b306c7972004cca7e"
+  },
+  "name": "MÈO BENGAL",
+  "categoryID": 2,
+  "quantity": 1,
+  "price": 1200000,
+  "salePrice": null,
+  "des": "Mèo Bengal là một giống mèo có nguồn gốc từ Mỹ, được tạo ra từ sự lai tạo giữa mèo rừng và mèo Mỹ. Chúng là một trong những giống mèo có bộ lông đẹp nhất và phổ biến nhất trên thế giới.  Mèo Bengal có kích thước trung bình, nặng khoảng 3-7 kg và cao từ 22-38 cm. Chúng có thân hình nhỏ gọn, cơ bắp, với đầu tròn, tai to và mũi ngắn. Bộ lông của mèo Bengal có đặc điểm là có họa tiết giống như báo hoặc hổ, với màu lông phổ biến là nâu, kem, cam và đen.",
+  "image": "https://dogily.vn/wp-content/uploads/2022/05/meo-bengal-duc-1-400x400.png",
+  "createdAt": {
+    "$date": "2023-05-02T15:02:35.694Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T15:02:35.694Z"
+  },
+  "slug": "meo-bengal",
+  "product_ID": 12,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64512703306c7972004cca8d"
+  },
+  "name": "Hạt Dog Mania Cho Chó Trưởng Thành 3kg",
+  "categoryID": 3,
+  "quantity": 4,
+  "price": 280000,
+  "salePrice": null,
+  "des": "Hạt Dog Mania Cho Chó Trưởng Thành là sản phẩm thức ăn dành cho chó là một trong những sản phẩm được ưa chuộng hàng đầu tại Việt Nam hiện nay. Hạt Dog Mania cho chó sản xuất trên dây chuyền công nghệ hiện đại, phù hợp với các giống chó trưởng thành.",
+  "image": "https://dogily.vn/wp-content/uploads/2021/12/dog-mania-cho-cho-truong-thanh-3-kg-1-510x510.jpg",
+  "createdAt": {
+    "$date": "2023-05-02T15:06:43.659Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T15:06:43.659Z"
+  },
+  "slug": "hat-dog-mania-cho-cho-truong-thanh-3kg",
+  "product_ID": 13,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64512732306c7972004cca96"
+  },
+  "name": "Hạt SmartHeart Gold LAMB & RICE 1kg",
+  "categoryID": 3,
+  "quantity": 3,
+  "price": 200000,
+  "salePrice": null,
+  "des": "Hạt Smartheart Gold LAMB & RICE (vị thịt cừu và gạo) là loại thức ăn khô dạng hạt chuyên dụng giúp tạo cơ bắp cho các giống chó trung bình hoặc cỡ lớn. Với coogn thức đặc biệt dành hỗ trợ tạo cơ bắp cho chó từ khi còn nhỏ.",
+  "image": "https://dogily.vn/wp-content/uploads/2021/12/hat-smart-heart-gold-lamb-rice-1-kg-6-510x510.jpg",
+  "createdAt": {
+    "$date": "2023-05-02T15:07:30.214Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T15:07:30.214Z"
+  },
+  "slug": "hat-smartheart-gold-lamb-and-rice-1kg",
+  "product_ID": 14,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6451276c306c7972004cca9f"
+  },
+  "name": "Hạt Royal Canin Mini Adult 2kg dành cho chó",
+  "categoryID": 3,
+  "quantity": 5,
+  "price": 280000,
+  "salePrice": null,
+  "des": "Hạt Royal Canin Mini Adult 2kg được thiết kế để đáp ứng các nhu cầu dinh dưỡng cụ thể của các giống chó kích cỡ nhỏ có cân nặng dưới 10kg khi trưởng thành và có độ tuổi trên 10 tháng.",
+  "image": "https://dogily.vn/wp-content/uploads/2021/12/hat-royal-canin-mini-adult-2-kg-6-510x510.jpg",
+  "createdAt": {
+    "$date": "2023-05-02T15:08:28.836Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T15:08:28.836Z"
+  },
+  "slug": "hat-royal-canin-mini-adult-2kg-danh-cho-cho",
+  "product_ID": 15,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645127c7306c7972004ccaa8"
+  },
+  "name": "Hạt Nature’s Kitchen da và lông bịch 6kg cho chó (đỏ)",
+  "categoryID": 3,
+  "quantity": 3,
+  "price": 300000,
+  "salePrice": null,
+  "des": "Nature’s Kitchen được sản xuất trên dây chuyền công nghệ hiện đại. Với những nguyên liệu chất lượng cao, cân bằng và đa dạng, giúp hỗ trợ vật nuôi phát triển toàn diện, khỏe mạnh.",
+  "image": "https://dogily.vn/wp-content/uploads/2021/12/hat-nature-kitchen-long-va-da-6-kg-6-510x510.jpg",
+  "createdAt": {
+    "$date": "2023-05-02T15:09:59.932Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T15:09:59.932Z"
+  },
+  "slug": "hat-nature-s-kitchen-da-va-long-bich-6kg-cho-cho-d",
+  "product_ID": 16,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64512800306c7972004ccab1"
+  },
+  "name": "Hạt Nature’s Kitchen xương khớp bịch 2kg cho chó",
+  "categoryID": 3,
+  "quantity": 2,
+  "price": 200000,
+  "salePrice": null,
+  "des": "Nature’s Kitchen được sản xuất trên dây chuyền công nghệ hiện đại. Với những nguyên liệu chất lượng cao, cân bằng và đa dạng, giúp hỗ trợ vật nuôi phát triển toàn diện, khỏe mạnh.",
+  "image": "https://dogily.vn/wp-content/uploads/2021/12/nature-kitchen-xuong-khop-cho-cho-2-kg-4-510x510.jpg",
+  "createdAt": {
+    "$date": "2023-05-02T15:10:56.517Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T15:10:56.517Z"
+  },
+  "slug": "hat-nature-s-kitchen-xuong-khop-bich-2kg-cho-cho",
+  "product_ID": 17,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64512833306c7972004ccaba"
+  },
+  "name": "Thức ăn cho chó trưởng thành mọi giống Equilibrio All Breed Adult – 2kg",
+  "categoryID": 3,
+  "quantity": 2,
+  "price": 250000,
+  "salePrice": null,
+  "des": "Các sản phẩm của EQUILIBRIO được sản xuất tại Brazil và tuân thủ theo những quy trình nghiêm ngặt nhất, đảm bảo không sử dụng nguyên liệu biến đổi gen nhờ quá trình lựa chọn hết sức chặt chẽ. Bạn có thể yên tâm rằng thú cưng của mình đang được thưởng thức loại thức ăn an toàn nhất.",
+  "image": "https://dogily.vn/wp-content/uploads/2021/12/hat-equilibrio-cho-cho-truong-thanh-4-510x510.jpg",
+  "createdAt": {
+    "$date": "2023-05-02T15:11:47.727Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T08:03:06.342Z"
+  },
+  "slug": "thuc-an-cho-cho-truong-thanh-moi-giong-equilibrio-all-breed-adult-2kg",
+  "product_ID": 18,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645128cf306c7972004ccacf"
+  },
+  "name": "LHK – Túi xách nilon nhỏ cho chó mèo (3kg)",
+  "categoryID": 4,
+  "quantity": 1,
+  "price": 120000,
+  "salePrice": null,
+  "des": "Túi xách nilon nhỏ (3kg) dành cho chó mèo được làm từ chất liệu tốt, bền, đẹp và chắc chắn. Có nhiều màu sắc ưa nhìn cho bạn chọn lựa.  Túi xách rất tiện lợi, dễ dàng mang bé theo bên cạnh. Bảo vệ bé cưng của bạn khỏi ánh sáng, nắng bụi,… Được làm bằng vải không thẩm thấu nước, dễ dàng cho việc lau chùi.  Thiết kế túi xách rất chắc chắn, hiện đại mang phong cách thời trang.  Giúp thú cưng cảm thấy thoải mái, không bị kích ứng da.",
+  "image": "https://dogily.vn/wp-content/uploads/2020/02/tui-xach-nho-nylon-510x510.jpg",
+  "createdAt": {
+    "$date": "2023-05-02T15:14:23.890Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T15:14:23.890Z"
+  },
+  "slug": "lhk-tui-xach-nilon-nh-cho-cho-me-o-3kg",
+  "product_ID": 19,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64512903306c7972004ccad8"
+  },
+  "name": "Túi thái cho chó mèo size lớn",
+  "categoryID": 4,
+  "quantity": 5,
+  "price": 400000,
+  "salePrice": null,
+  "des": "Túi thái cho chó mèo size lớn được làm từ chất liệu tốt, bền, đẹp và chắc chắn. Có nhiều màu sắc ưa nhìn cho bạn chọn lựa.  Túi xách rất tiện lợi, dễ dàng mang bé theo bên cạnh. Bảo vệ bé cưng của bạn khỏi ánh sáng, nắng bụi,… Được làm bằng vải không thẩm thấu nước, dễ dàng cho việc lau chùi.  Thiết kế túi xách rất chắc chắn, hiện đại mang phong cách thời trang.  Giúp thú cưng cảm thấy thoải mái, không bị kích ứng da.",
+  "image": "https://dogily.vn/wp-content/uploads/2020/02/tui-thai-1.png",
+  "createdAt": {
+    "$date": "2023-05-02T15:15:15.094Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T15:15:15.094Z"
+  },
+  "slug": "tui-thai-cho-cho-meo-size-lon",
+  "product_ID": 20,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64554087c06106654034bc6e"
+  },
+  "name": "Chó Ngao Tây Tạng",
+  "categoryID": 1,
+  "quantity": 1,
+  "price": 1000000,
+  "salePrice": null,
+  "des": "",
+  "image": "https://zda.vn/wp-content/uploads/2023/01/88-anh-cho-husky-ngao-ngau-cute-de-thuong-hai-huoc_7.jpg",
+  "createdAt": {
+    "$date": "2023-05-05T17:44:39.683Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-05T17:44:39.683Z"
+  },
+  "slug": "cho-ngao-tay-tang",
+  "product_ID": 27,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6455414bc06106654034bc87"
+  },
+  "name": "chó huski",
+  "categoryID": 1,
+  "quantity": 1,
+  "price": 1000000,
+  "salePrice": null,
+  "des": "Khóa học miễn phí JavaScript tại F8 là một khóa học giúp bạn có thể nắm vững toàn bộ những kiến thức cơ bản",
+  "image": "https://zda.vn/wp-content/uploads/2023/01/88-anh-cho-husky-ngao-ngau-cute-de-thuong-hai-huoc_7.jpg",
+  "createdAt": {
+    "$date": "2023-05-05T17:47:55.487Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-05T17:47:55.487Z"
+  },
+  "slug": "cho-huski",
+  "product_ID": 28,
+  "__v": 0
+}]

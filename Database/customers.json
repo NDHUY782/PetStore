@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "64572bbcaa616706e42aa513"
+  },
+  "name": "Đặng Quốc Huy",
+  "user_name": "huy@gmail.com",
+  "password": "$2b$10$C5pwo9EVEk9Ae6IbhuzGxeJyf2UoaEW1oPHppYFBaD1nfP4XAwRYW",
+  "image": "https://haycafe.vn/wp-content/uploads/2021/11/Anh-avatar-dep-chat-lam-hinh-dai-dien.jpg",
+  "createdAt": {
+    "$date": "2023-05-07T04:40:28.871Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T04:40:28.871Z"
+  },
+  "customer_ID": 1,
+  "slug": "dang-quoc-huy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64572be3aa616706e42aa51a"
+  },
+  "name": "Phan Thanh Dương",
+  "user_name": "duong@gmail.com",
+  "password": "$2b$10$gSxO9t2nj.cJPZZ.ExUyxuGquSo9cWZu0uDNn0HfRLLtVFHeVW9.2",
+  "image": "https://i.bloganchoi.com/bloganchoi.com/wp-content/uploads/2022/05/hinh-avatar-doi-dep-2022-6-696x696.jpg?fit=700%2C20000&quality=95&ssl=1",
+  "createdAt": {
+    "$date": "2023-05-07T04:41:07.830Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T04:41:07.830Z"
+  },
+  "customer_ID": 2,
+  "slug": "phan-thanh-duong",
+  "__v": 0
+}]
